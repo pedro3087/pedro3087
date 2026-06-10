@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there! 👋 I'm Pedro Guillen, a software engineer technology manager passionate about AI, fullstack development, software architecture, and cloud computing. I love building scalable, efficient, and robust systems while sharing my knowledge with the dev community.
 
-<!--
-**pedro3087/pedro3087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
 
-Here are some ideas to get you started:
+💻 Backend: Java, Java EE, Spring, Spring Boot, Python
+👀 Frontend: Angular, Typescript, React Native, HTML, CSS
+☁️ Cloud: AWS, GCP
+📡 APIs & Distributed Systems: Kafka, REST, Microservices
+🛠️ DevOps & Tools: Docker, Kubernetes, Jenkins, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 What I’m Working On
+
+🔹 Designing high-performance systems
+🔹 Exploring machine learning and LLMs
+🔹 AI Agents for Services 
+
+🎯 My Mission
+
+🔹Build solid, scalable, and high-performance systems that can handle real-world challenges efficiently.
+🔹Helping engineers level up by sharing insights on software architecture, cloud, and system design. Check out my content on LinkedIn!
+
+💼 LinkedIn -> https://www.linkedin.com/in/pguillen/ 
+
+💡 Always open to discussing new ideas, collaborations, and exciting projects! 🚀
