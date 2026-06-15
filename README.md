@@ -17,7 +17,7 @@ Hi there! 👋 I'm Pedro Guillen, a software engineer technology manager passion
 🎯 My Mission
 
 🔹Build solid, scalable, and high-performance systems that can handle real-world challenges efficiently.
-🔹Helping engineers level up by sharing insights on software architecture, cloud, and system design. Check out my content on LinkedIn!
+🔹Helping engineers level up by sharing insights on software architecture, cloud, and system design. 
 
 💼 LinkedIn -> https://www.linkedin.com/in/pguillen/ 
 
